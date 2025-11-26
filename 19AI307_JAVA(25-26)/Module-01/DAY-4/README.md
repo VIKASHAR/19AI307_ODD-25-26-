@@ -50,8 +50,8 @@ To write a Java program that reads an array of integers and finds the largest od
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176
+Developed by: VIKASH A R
+RegisterNumber: 212222040179
 */
 ```
 
@@ -84,3 +84,4 @@ public class Main{
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
